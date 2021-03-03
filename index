@@ -1,0 +1,31 @@
+<!DOCKTYPE HTML>
+<html lang="pl"> 
+<head>
+ <meta charset="utf-8" />
+ <title>Wymieniamy się wiedzą!</title>
+ <meta name="description" conten="Projekt klasy VIIIA, dotyczy on wymiany książek i pomocy naukowych"/>
+ <meta name="keywords" content="książki, nauka, projekt"/>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+</head>
+
+<body bgcolor="black" text="gold">
+ <h1 align="center">Wymieniamy się wiedzą!</h1>
+ <hr width="900" size="5" color="gold" />
+ <h2 align="center"> Regulamin Projektu: <br/> 1. Aby wziąść udział w wymianie książek musisz przynieść swoją książkę/pomoce naukowe. Wymiany możesz dokonać po daniu czegoś od siebie. <br/> 2. Książki muszą przejść dwudniową kwarantannę aby można było wymienić je za inne. 
+ <hr width="900" size="5" color="gold" /> 
+ <br/>
+ <h2 align="center"> Lista książek dostępnych: </h2>
+ <h3 align="center">
+     <h3 align="center"><a href="https://pl.wikipedia.org/wiki/Książka" target="_blank" title="ksiazka"> 1. "ksiazka" autor <br/> </a>
+     <h3 align="center"><a href="https://pl.wikipedia.org/wiki/Książka" target="_blank" title="ksiazka"> 2. "ksiazka" autor <br/> </a>
+     <h3 align="center"><a href="https://pl.wikipedia.org/wiki/Książka" target="_blank" title="ksiazka"> 3. "ksiazka" autor <br/> </a>
+ <br>
+ <h2 align="center"> Lista książek znajdujących się w kwarantannie:</h2>
+ <h3 align="center"><a href="https://pl.wikipedia.org/wiki/Książka" target="_blank" title="ksiazka"> 1."książka 1" autor 1 <br/> </a>
+ <h3 align="center"><a href="https://pl.wikipedia.org/wiki/Książka" target="_blank" title="ksiazka"> 2. "ksiazka 2" autor 2 <br /> </a>
+ <h3 align="center"><a href="https://pl.wikipedia.org/wiki/Książka" target="_blank" title="ksiazka"> 3. "ksiazka 3" autor 3<br /></a>
+     <hr width="900" size="5" color="gold" />
+ <h4 align="center"> Projekt realizowany przez klasę VIIIA </h4>
+</body>
+
+</html>
