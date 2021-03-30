@@ -13,6 +13,8 @@ body
 
 #nazwa
 {
+	width: 795px;
+	display: inline-block;
 	background-color: 3B3B3B;
 	margin-top: 15px;
 	margin-bottom: 15px;
@@ -21,6 +23,7 @@ body
 	font-weight: 900;
 	text-align: center;
 	color: D1D1D1;
+	margin-left: 0;
 }
 
 #regulamin
@@ -28,7 +31,7 @@ body
 	background-color: 242424;
 	color: DEDEDE;
 	padding: 13px;
-	margin-top: 15px;
+	margin-top: 25px;
 	border-bottom: 3px dotted #C5D440;
 	border-top: 3px dotted #C5D440;
 	text-align: center;
@@ -112,4 +115,18 @@ a:hover
 	font-size: 22px;
 	font-weight: 900;
 	letter-spacing: 2px;
+}
+
+#zegar
+{
+	width: 200px;
+	display: inline-block;
+	background-color: 3B3B3B;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 37px;
+	letter-spacing: 2px;
+	font-weight: 900;
+	text-align: center;
+	color: D1D1D1;
 }
